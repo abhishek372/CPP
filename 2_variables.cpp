@@ -3,8 +3,9 @@ using namespace std;
 
 int main() {
     // variable a to store value 2
-    int a = 2; 
-    cout<<"Value of a: "<<a;
+    int a = 2, b = 3, sum=0;
+    cout<<"Value of a: "<<a<<endl;
+    cout<<"Sum = "<<a+b;
     return 0;
 }
 
